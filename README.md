@@ -35,6 +35,7 @@
 
 ## :framed_picture: 공지사항</STRONG>
 * 공지사항
+- 1/11일 까지 개인별 발표 자료 준비 완성하기
 
 
 ## :footprints: SCHEDULE
@@ -43,4 +44,8 @@
 스터디 그룹 진행 방향 논의 및 일정 조율
 
 #### 2021/12/27
+Chapter 1, 2 리뷰 및 Q&A <br>
+개인별 발표 주제 선정(성수-RNN, LSTM, GRU / 수진- AutoEncoder, VAE, GAN / 재현, 동환- CNN / 건- GNN)
+
+#### 2022/01/05
 예정
