@@ -35,7 +35,7 @@
 
 ## :framed_picture: 공지사항</STRONG>
 * 공지사항
-- 1/11일 까지 개인별 발표 자료 준비 완성하기
+- 1/14일 까지 개인별 발표 자료 준비 완성하기
 
 
 ## :footprints: SCHEDULE
@@ -48,4 +48,7 @@ Chapter 1, 2 리뷰 및 Q&A <br>
 개인별 발표 주제 선정(성수-RNN, LSTM, GRU / 수진- AutoEncoder, VAE, GAN / 재현, 동환- CNN / 건- GNN)
 
 #### 2022/01/05
-예정
+Chapter 3, 4, 5 리뷰 및 Q&A <br>
+
+#### 2022/01/14
+미팅 예정.
