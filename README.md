@@ -27,10 +27,6 @@
 |3|Neural Network Learning|
 |4|Optimization|
 |5|Initialization and Regularization|
-|6|CNN|
-|7|Types of CNN models|
-|8|RNN, LSTM, GRU|
-|9|Generative model(VAE, GAN)|
 
 
 
