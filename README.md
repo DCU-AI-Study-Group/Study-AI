@@ -48,7 +48,7 @@ Chapter 1, 2 리뷰 및 Q&A <br>
 Chapter 3, 4, 5 리뷰 및 Q&A <br>
 
 #### 2022/01/14
-각자 맡은 신경망 발표하였음.(성수 - RNN, LSTM, GRU, Seq2Seq / 재현, 동환 - CNN / 건 - GNN)
+각자 맡은 신경망 발표하였음.(성수 - RNN, LSTM, GRU, Seq2Seq / 재현, 동환 - CNN / 건 - GNN) <br>
 개인별 리뷰할 논문 선정
 
 #### 2022/01/24
