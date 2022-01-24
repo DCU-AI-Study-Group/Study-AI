@@ -86,3 +86,23 @@ TextRank의 작동원리로 텍스트를 그래프로 표현하기 위해 본 �
  - local context 뿐만 아니라 entire text(graph)에서 재귀적으로 정보를 추출 가능
 - 모든 단어와 문장의 중요도 점수 산출
  - 요약문의 길이, 주요 키워드의 개수 자유롭게 조정 가능
+
+---
+
+# TextRank-Bringing Order into Texts
+
+## Information
+2022년 01월 24일 오후 9시 발표자: 김건
+
+## Topic
+NLP, Text Rank, Keyword Extraction, Sentence Extraction
+
+## 발표자 후기
+오늘 NLP 분야에서 유명한 TextRank 논문에 대해 발표를 했습니다. 그래프를 기반으로 하여 Text내에서 중요한 키워드와 요약문과 같은 중요 문장을 추출해주는 원리에 대해 자세히 알게 되었습니다. 특히 본 논문을 공부하면서 Unweighted Graph와 Weighted Graph, Tokenization, Pos Tagging에 대해 새롭게 알게 되었습니다. 그리고 요즘 많은 텍스트 데이터가 넘쳐나는 추세인데 이렇게 별도의 Training과 Validation 없이 바로 주요 키워드와 요약문과 같은 문장을 추출할 수 있다는 것이 인상깊었고, 이러한 기술은 많이 활용될 것이며 더욱 발전될 가능성이 높다고 느껴졌습니다.
+
+---
+## 청취자 후기
+- 권성수: 
+- 노동환:
+- 김재현:
+
